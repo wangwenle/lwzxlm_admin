@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@tinymce/tinymce-vue": "^3.2.2",
-    "axios": "0.18.0",
+    "axios": "0.19.2",
     "echarts": "^4.1.0",
     "element-ui": "2.4.6",
     "eslint-plugin-html": "^6.0.2",
